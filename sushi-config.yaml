@@ -17,8 +17,11 @@ name: ImplementationGuide
 title: Miscellaneous ePI Test
 status: active
 publisher: Gravitate Health Project
-  name: Gravitate Health Project
-  url: https://www.gravitatehealth.eu/
+contact:
+  - name: Gravitate Health Project
+    telecom:
+      - system: url
+        value: https://www.gravitatehealth.eu/
 description: Gravitate Health is an EU project aiming to empower and equip Europeans with health information for active personal health management and adherence to treatment.
 license: CC0-1.0
 fhirVersion: 5.0.0
