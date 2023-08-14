@@ -12,8 +12,6 @@ Usage: #example / don't change.
 * type = https://www.mhra.gov.uk/#100000155538 //Don't change.
 * type.text = "Package Leaflet" //Don't change this.
 
-* subject[0] = Reference() //Add the Instance name for the Medicinal Product inside the brackets
-
 * date = "2022-03-04T00:00:00Z" //Can keep the date as is or change to any date and time you like. Must be in this format though.
 * author = Reference() //Add the Instance name for the Organization inside the brackets
 
