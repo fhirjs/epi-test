@@ -1,8 +1,8 @@
 
 Instance: bundlepackageleaflet-83cd5efbdcef4327b61db75f7dbf7347
 InstanceOf: BundleUvEpi
-Title: "ePI document Bundle for PAXLOVID nirmatrelvir 150 mg tablet and ritonavir 100 mg tablet blister composite pack"
-Description: "Bundle for PAXLOVID nirmatrelvir 150 mg tablet and ritonavir 100 mg tablet blister composite pack"
+Title: "Bundle Australia EN - Package Leaflet for PAXLOVID nirmatrelvir 150 mg tablet and ritonavir 100 mg tablet blister composite pack"
+Description: "Bundle Australia EN - Package Leaflet for PAXLOVID nirmatrelvir 150 mg tablet and ritonavir 100 mg tablet blister composite pack"
 Usage: #example
 
 * language = #en

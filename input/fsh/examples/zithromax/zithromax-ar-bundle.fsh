@@ -1,8 +1,8 @@
 
 Instance: bundlepackageleaflet-379d610f9c96d541562699215b0864126
 InstanceOf: BundleUvEpi
-Title: "ePI document Bundle for zithromax (azithromycin) 250 mg capsules - zithromax (azithromycin) 250 mg capsules -  النشرة الداخلية: معلومات للمريض - كبسولات زيثروماكس® 250 مجم"
-Description: "Bundle for zithromax (azithromycin) 250 mg capsules - zithromax (azithromycin) 250 mg capsules -  النشرة الداخلية: معلومات للمريض - كبسولات زيثروماكس® 250 مجم"
+Title: "Bundle Jordan AR - Package Leaflet for zithromax (azithromycin) 250 mg capsules - zithromax (azithromycin) 250 mg capsules"
+Description: "Bundle Jordan AR - Package Leaflet for zithromax (azithromycin) 250 mg capsules - zithromax (azithromycin) 250 mg capsules"
 Usage: #example
 
 * language = #ar

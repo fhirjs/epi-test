@@ -1,8 +1,8 @@
 
 Instance: bundleproductmonographxyntha
 InstanceOf: BundleUvEpi
-Title: "Bundle - Product Monograph for Xyntha® Lyophilized Powder for Reconstitution in a Vial"
-Description: "Bundle - Product Monograph for Xyntha® Lyophilized Powder for Reconstitution in a Vial"
+Title: "Bundle Jordan EN - Product Monograph for Xyntha® Lyophilized Powder for Reconstitution in a Vial"
+Description: "Bundle Jordan EN - Product Monograph for Xyntha® Lyophilized Powder for Reconstitution in a Vial"
 Usage: #example
 
 * language = #en

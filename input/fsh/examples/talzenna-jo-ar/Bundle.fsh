@@ -1,8 +1,8 @@
 
 Instance: bundlepatientinformationtalzennajoar
 InstanceOf: BundleUvEpi
-Title: "ePI document Bundle for Arab Gulf and Jordan Talzenna 0.25 mg, 1 mg capsules"
-Description: "Bundle for Arab Gulf and Jordan Talzenna 0.25 mg, 1 mg capsules"
+Title: "Bundle Jordan AR - Patient Information for Talzenna 0.25 mg, 1 mg capsules"
+Description: "Bundle Jordan AR - Patient Information for Talzenna 0.25 mg, 1 mg capsules"
 Usage: #example
 
 * language = #en

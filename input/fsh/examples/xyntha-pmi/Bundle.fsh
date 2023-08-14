@@ -1,8 +1,8 @@
 
 Instance: bundlepackageleafletxyntha
 InstanceOf: BundleUvEpi
-Title: "Bundle - Patient Medication Information for Xyntha® Lyophilized Powder for Reconstitution in a Vial"
-Description: "Bundle - Patient Medicination Information for Xyntha® Lyophilized Powder for Reconstitution in a Vial"
+Title: "Bundle Jordan AR - Patient Medication Information for Xyntha® Lyophilized Powder for Reconstitution in a Vial"
+Description: "Bundle Jordan AR - Patient Medication Information for Xyntha® Lyophilized Powder for Reconstitution in a Vial"
 Usage: #example
 
 * language = #en

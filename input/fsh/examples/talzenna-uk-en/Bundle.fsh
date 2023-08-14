@@ -1,8 +1,8 @@
 
 Instance: bundlepackageleaflet-talzenna1-025
 InstanceOf: BundleUvEpi
-Title: "ePI document Bundle for Talzenna® (talazoparib) 0.25 mg and 1mg hard capsules"
-Description: "Bundle for Talzenna® (talazoparib) 0.25 mg and 1mg hard capsules"
+Title: "Bundle Jordan AR - Package Leaflet for Talzenna® (talazoparib) 0.25 mg and 1mg hard capsules"
+Description: "Bundle Jordan AR - Package Leaflet for Talzenna® (talazoparib) 0.25 mg and 1mg hard capsules"
 Usage: #example
 
 * language = #en
