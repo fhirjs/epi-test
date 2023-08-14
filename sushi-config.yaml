@@ -10,21 +10,20 @@
 # │  supported properties, see:                                                                    │
 # │  http://build.fhir.org/ig/HL7/fhir-shorthand/branches/beta/sushi.html#ig-development           │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
-id: hl7.fhir.epi.test
-canonical: http://hl7.eu/fhir/ig/fhir-epi-test
+id: hl7.fhir.uv.epi-test
+canonical: http://hl7.org/fhir/uv/epi-test
 version: 0.1.0
 name: ImplementationGuide
 title: Miscellaneous ePI Test
 status: active
 publisher: Gravitate Health Project
-contact:
-  - name: Gravitate Health Project
-    telecom:
-      - system: url
-        value: https://www.gravitatehealth.eu/
+  name: Gravitate Health Project
+  url: https://www.gravitatehealth.eu/
 description: Gravitate Health is an EU project aiming to empower and equip Europeans with health information for active personal health management and adherence to treatment.
 license: CC0-1.0
 fhirVersion: 5.0.0
+copyrightYear: 2022+
+releaseLabel: CI Build
 
 dependencies:
   hl7.fhir.uv.emedicinal-product-info: current
@@ -37,8 +36,6 @@ parameters:
 
   autoload-resources: true
   produce-jekyll-data: true
-copyrightYear: 2021+
-releaseLabel: CI Build
 
 # ╭────────────────────────────────────────────menu.xml────────────────────────────────────────────╮
 # │  To use a provided input/includes/menu.xml file, delete the "menu" property below.             │
