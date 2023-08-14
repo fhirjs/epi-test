@@ -52,4 +52,22 @@ menu:
   Table of Contents: toc.html
   Artifact Index: artifacts.html
 
+groups:
+  Xyntha1:
+    name: ePI Bundle Xyntha Patient Medication Information
+    description: Xyntha Jordan EN Patient Medication Information
+    resources: 
+      - Composition/compositionpmixyntha
+      - Organization/organizationwyeth
+      - Organization/organizationpfizercanada
+  Xyntha2:
+    name: ePI Bundle Xyntha Product Monograph
+    description: Xyntha Jordan EN Product Monograph
+    resources: 
+      - Composition/compositionproductmonographxyntha
+      - Organization/organizationwyeth
+      - Organization/organizationpfizercanada
+
+
+
 FSHOnly: false
