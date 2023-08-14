@@ -53,20 +53,50 @@ menu:
   Artifact Index: artifacts.html
 
 groups:
-  Xyntha1:
+  xyntha:
     name: ePI Bundle Xyntha Patient Medication Information
     description: Xyntha Jordan EN Patient Medication Information
     resources: 
       - Composition/compositionpmixyntha
       - Organization/organizationwyeth
       - Organization/organizationpfizercanada
-  Xyntha2:
-    name: ePI Bundle Xyntha Product Monograph
-    description: Xyntha Jordan EN Product Monograph
+  talzennaJO:
+    name: ePI Bundle Talzenna JO Patient Information
+    description: Talzenna Jordan AR Patient Information
     resources: 
-      - Composition/compositionproductmonographxyntha
-      - Organization/organizationwyeth
-      - Organization/organizationpfizercanada
+      - Composition/compositiontalzennajoar
+      - Organization/orgpfizerinc
+      - Organization/orgpfizerpharmceuticalsllc
+  talzennaUK:
+    name: ePI Bundle Talzenna UK Patient Information
+    description: Talzenna UK EN Patient Information
+    resources: 
+      - Composition/compositionuken
+      - Ingredient/talazoparib025mg
+      - Ingredient/talazoparib1mg
+      - Ingredient/ingredientMICROCRYSTALLINECELLULOSE
+      - Ingredient/ingredientSILICONDIOXIDE
+      - Ingredient/ingredientHYPROMELLOSE
+      - Ingredient/ingredientFERRICOXIDEYELLOW
+      - Ingredient/ingredientTITANIUMDIOXIDE
+      - Ingredient/ingredientFERRICOXIDERED
+      - Ingredient/ingredientSHELLAC
+      - Ingredient/ingredientPROPYLENEGLYCOL
+      - Ingredient/ingredientAMMONIUMHYDROXIDE
+      - Ingredient/ingredientFERROSOFERRICOXIDE
+      - Ingredient/ingredientPotassiumhydroxide
+      - SubstanceDefinition/substancetalazoparib
+      - ManufacturedItemDefinition/mid025mg
+      - ManufacturedItemDefinition/mid1mg
+      - AdministrableProductDefinition/ap025mg
+      - AdministrableProductDefinition/ap1mg
+      - RegulatedAuthorization/authorization1mg
+      - RegulatedAuthorization/authorization025mg
+      - Organization/orgpfizerukltd
+      - PackagedProductDefinition/ppdblister30
+      - MedicinalProductDefinition/mp025mg
+      - MedicinalProductDefinition/mp1mg
+
 
 
 
