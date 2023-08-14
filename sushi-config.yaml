@@ -52,29 +52,5 @@ menu:
   Table of Contents: toc.html
   Artifact Index: artifacts.html
 
-groups:
-  xynthaPMI:
-    name: ePI Bundle Xyntha Patient Medication Information
-    description: Xyntha Jordan EN Patient Medication Information
-    resources: 
-      - Bundle/bundlepackageleafletxyntha
-  xynthaPM:
-    name: ePI Bundle Xyntha Product Monograph
-    description: Xyntha Jordan AR Product Monograph
-    resources: 
-      - Bundle/bundleproductmonographxyntha
-  talzennaJO:
-    name: ePI Bundle Talzenna JO Patient Information
-    description: Talzenna Jordan AR Patient Information
-    resources: 
-      - Bundle/bundlepatientinformationtalzennajoar
-  talzennaUK:
-    name: ePI Bundle Talzenna UK Patient Information
-    description: Talzenna UK EN Patient Information
-    resources: 
-      - Bundle/bundlepackageleaflet-talzenna1-025
-
-
-
 
 FSHOnly: false
